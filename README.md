@@ -23,7 +23,7 @@ Screenshots of the overall hackpad with 3D models of keys and the rotary encoder
 <img width="1023" height="573" alt="image" src="https://github.com/user-attachments/assets/e9c865c0-ad73-4e4c-90bf-85f798878e97" />
 
 ## With 3D model of PCB
-<img width="841" height="696" alt="image" src="https://github.com/user-attachments/assets/672fe27f-0164-4fb4-9a57-ab86b869ad84" />
+<img width="657" height="568" alt="image" src="https://github.com/user-attachments/assets/41556e3c-be76-467d-89f5-de9bed054944" />
 <img width="1435" height="912" alt="image" src="https://github.com/user-attachments/assets/02a86924-0b23-4e02-9877-1136987750bc" />
 
 
